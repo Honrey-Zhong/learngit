@@ -1,0 +1,35 @@
+[33mcommit 2cf227778db3cab42fdb1b77875bf089de42463b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: HRZ <1304560647@qq.com>
+Date:   Sun May 11 22:20:56 2025 +0800
+
+    change again
+
+[33mcommit 8058c3aa6e99bbd51dd2ea5186f45a7db00679ff[m
+Author: HRZ <1304560647@qq.com>
+Date:   Sun May 11 22:17:13 2025 +0800
+
+    git tracks changes
+
+[33mcommit 04e1c53481e2844d1cc802e3b3fbcfc96cc8dd2b[m
+Author: HRZ <1304560647@qq.com>
+Date:   Sun May 11 22:11:28 2025 +0800
+
+    understand how stage works
+
+[33mcommit 83399ceb1b9577d93b7865ddee853b530d3bd976[m
+Author: HRZ <1304560647@qq.com>
+Date:   Sun May 11 19:50:47 2025 +0800
+
+    append GPL
+
+[33mcommit a31baf2d76e9b18f0a5bf80930a64d82821f0d96[m
+Author: HRZ <1304560647@qq.com>
+Date:   Sun May 11 19:46:58 2025 +0800
+
+    add distributed
+
+[33mcommit 77eeddc573df0a9583ab674d2a5292c507cb9296[m
+Author: HRZ <1304560647@qq.com>
+Date:   Sun May 11 19:35:44 2025 +0800
+
+    wrote a readme file
